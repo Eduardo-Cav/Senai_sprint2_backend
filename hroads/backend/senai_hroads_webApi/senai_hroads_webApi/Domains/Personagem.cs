@@ -5,6 +5,9 @@ using System.Collections.Generic;
 
 namespace senai_hroads_webApi.Domains
 {
+    /// <summary>
+    /// São os personagens e sua descrição 
+    /// </summary>
     public partial class Personagem
     {
         public int IdPersonagem { get; set; }

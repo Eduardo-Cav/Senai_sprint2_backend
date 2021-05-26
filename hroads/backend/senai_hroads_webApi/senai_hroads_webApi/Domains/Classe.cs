@@ -5,6 +5,9 @@ using System.Collections.Generic;
 
 namespace senai_hroads_webApi.Domains
 {
+    /// <summary>
+    /// São as classes existentes no jogo
+    /// </summary>
     public partial class Classe
     {
         public Classe()

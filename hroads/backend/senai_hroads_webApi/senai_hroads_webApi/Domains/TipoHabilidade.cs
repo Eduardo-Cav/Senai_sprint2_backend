@@ -5,6 +5,9 @@ using System.Collections.Generic;
 
 namespace senai_hroads_webApi.Domains
 {
+    /// <summary>
+    /// Tipo de habilidade de que cada habilidade posssui
+    /// </summary>
     public partial class TipoHabilidade
     {
         public TipoHabilidade()

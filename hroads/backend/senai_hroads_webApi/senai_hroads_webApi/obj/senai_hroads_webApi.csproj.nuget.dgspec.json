@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Meus Documentos\\Área de Trabalho\\senai projeto 3 nessa porra\\senai_hroads_webApi\\senai_hroads_webApi\\senai_hroads_webApi.csproj": {}
+    "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\hroads\\backend\\senai_hroads_webApi\\senai_hroads_webApi\\senai_hroads_webApi.csproj": {}
   },
   "projects": {
-    "E:\\Meus Documentos\\Área de Trabalho\\senai projeto 3 nessa porra\\senai_hroads_webApi\\senai_hroads_webApi\\senai_hroads_webApi.csproj": {
+    "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\hroads\\backend\\senai_hroads_webApi\\senai_hroads_webApi\\senai_hroads_webApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\senai projeto 3 nessa porra\\senai_hroads_webApi\\senai_hroads_webApi\\senai_hroads_webApi.csproj",
+        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\hroads\\backend\\senai_hroads_webApi\\senai_hroads_webApi\\senai_hroads_webApi.csproj",
         "projectName": "senai_hroads_webApi",
-        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\senai projeto 3 nessa porra\\senai_hroads_webApi\\senai_hroads_webApi\\senai_hroads_webApi.csproj",
+        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\hroads\\backend\\senai_hroads_webApi\\senai_hroads_webApi\\senai_hroads_webApi.csproj",
         "packagesPath": "C:\\Users\\eduzi\\.nuget\\packages\\",
-        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\senai projeto 3 nessa porra\\senai_hroads_webApi\\senai_hroads_webApi\\obj\\",
+        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\hroads\\backend\\senai_hroads_webApi\\senai_hroads_webApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduzi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1018,11 +1018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\exemplo filmes\\senai_filmes_webApi\\senai_filmes_webApi\\senai_filmes_webApi.csproj",
+      "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\filmes\\backend\\senai_filmes_webApi\\senai_filmes_webApi\\senai_filmes_webApi.csproj",
       "projectName": "senai_filmes_webApi",
-      "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\exemplo filmes\\senai_filmes_webApi\\senai_filmes_webApi\\senai_filmes_webApi.csproj",
+      "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\filmes\\backend\\senai_filmes_webApi\\senai_filmes_webApi\\senai_filmes_webApi.csproj",
       "packagesPath": "C:\\Users\\eduzi\\.nuget\\packages\\",
-      "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\exemplo filmes\\senai_filmes_webApi\\senai_filmes_webApi\\obj\\",
+      "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\filmes\\backend\\senai_filmes_webApi\\senai_filmes_webApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eduzi\\AppData\\Roaming\\NuGet\\NuGet.Config",

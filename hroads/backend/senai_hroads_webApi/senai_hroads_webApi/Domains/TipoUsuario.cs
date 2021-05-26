@@ -5,6 +5,9 @@ using System.Collections.Generic;
 
 namespace senai_hroads_webApi.Domains
 {
+    /// <summary>
+    /// Tipo/permissão desse usuário
+    /// </summary>
     public partial class TipoUsuario
     {
         public TipoUsuario()

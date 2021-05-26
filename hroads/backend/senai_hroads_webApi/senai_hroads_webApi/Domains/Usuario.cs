@@ -5,6 +5,9 @@ using System.Collections.Generic;
 
 namespace senai_hroads_webApi.Domains
 {
+    /// <summary>
+    /// Usuario que será logado 
+    /// </summary>
     public partial class Usuario
     {
         public int IdUsuario { get; set; }

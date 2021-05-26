@@ -5,6 +5,9 @@ using System.Collections.Generic;
 
 namespace senai_hroads_webApi.Domains
 {
+    /// <summary>
+    /// As habilidades do hroads
+    /// </summary>
     public partial class Habilidade
     {
         public int IdHabilidade { get; set; }
