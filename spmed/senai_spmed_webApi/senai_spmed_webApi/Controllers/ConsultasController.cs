@@ -35,33 +35,36 @@ namespace senai_spmed_webApi.Controllers
             _consultaRepository = new ConsultaRepository();
         }
 
-        /// <summary>
-        /// Busca uma consulta pelo seu id
-        /// </summary>
-        /// <param name="id">id da consulta que será buscada</param>
-        /// <returns>uma lista de consultas de um usuário</returns>
-        //[HttpGet("{id}")]
-        //public IActionResult GetById(int id)
-        //{
-        //    try
-        //    {
-        //        // retorna a resposta da requisição fazendo a chamada para o método
-        //        return Ok(_consultaRepository.ListarTodas(id));
-        //    }
-        //    catch (Exception erro)
-        //    {
-        //        return BadRequest(erro);
-        //    }
-        
+       
+        [HttpGet("{id}")]
+        public IActionResult GetById(int id)
+        {
+           try
+           {
+               // retorna a resposta da requisição fazendo a chamada para o método
+               return Ok(_consultaRepository.ListarTodas(id));
+           }
+           catch (Exception erro)
+           {
+               return BadRequest(erro);
+           }
+        }
 
-        [HttpGet("{idPaciente}")]
-        public IActionResult GetByIdPacient(int idPaciente)
+
+        /// <summary>
+        /// busca uma consulta de um determinado paciente
+        /// </summary>
+        /// <returns>uma consulta retornada</returns>
+        
+        [Authorize(Roles = "2, 3")]
+        [HttpGet("minhas")]
+        public IActionResult GetByIdUser()
         {
             try
             { 
-
+                int idUsuario = Convert.ToInt32( HttpContext.User.Claims.First( c => c.Type == JwtRegisteredClaimNames.Jti ).Value );
                 // retorna a resposta da requisição fazendo a chamada para o método
-                return Ok(_consultaRepository.ConsultasPaciente(idPaciente));
+                return Ok(_consultaRepository.ConsultasUsuarios(idUsuario));
             }
             catch (Exception erro)
             {
@@ -69,19 +72,6 @@ namespace senai_spmed_webApi.Controllers
             }
         }
 
-        //[HttpGet("{id}")]
-        //public IActionResult GetByIdDoctor(int id)
-        //{
-        //    try
-        //    {
-        //        // retorna a resposta da requisição fazendo a chamada para o método
-        //        return Ok(_consultaRepository.ConsultasMedico(id));
-        //    }
-        //    catch (Exception erro)
-        //    {
-        //        return BadRequest(erro);
-        //    }
-        //}
 
         /// <summary>
         /// agenda uma nova consulta

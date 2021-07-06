@@ -10,7 +10,7 @@ namespace senai_spmed_webApi.Repositories
 {
     public class UsuarioRepository : IUsuarioRepository
     {
-        // <summary>
+        /// <summary>
         /// Objeto contexto por onde serão chamados os métodos do EF Core
         /// </summary>
         spmedContext ctx = new spmedContext();

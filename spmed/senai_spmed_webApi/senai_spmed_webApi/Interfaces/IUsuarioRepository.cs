@@ -17,7 +17,7 @@ namespace senai_spmed_webApi.Interfaces
         /// <summary>
         /// busca um usuário através do seu id pela url da requisição
         /// </summary>
-        /// <param name="nomeUsuario">nome do usuário que será passado</param>
+        /// <param name="id">nome do usuário que será passado</param>
         /// <returns>um usuário</returns>
         Usuario BuscarUsuario(int id);
 

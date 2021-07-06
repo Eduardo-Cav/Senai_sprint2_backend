@@ -18,7 +18,7 @@ namespace senai_spmed_webApi.Controllers
     public class EspecialidadesController : ControllerBase
     {
 
-        // <summary>
+        /// <summary>
         /// _especialidadeRepository recebe os métodos da interface
         /// </summary>
         private IEspecialidadeRepository _especialidadeRepository { get; set; }

@@ -17,7 +17,7 @@ namespace senai_spmed_webApi.Controllers
     [ApiController]
     public class PacientesController : ControllerBase
     {
-        // <summary>
+        /// <summary>
         /// _pacienteRepository recebe os métodos da interface
         /// </summary>
         private IPacienteRepository _pacienteRepository { get; set; }

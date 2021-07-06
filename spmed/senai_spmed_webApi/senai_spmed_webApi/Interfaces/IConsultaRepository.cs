@@ -32,14 +32,7 @@ namespace senai_spmed_webApi.Interfaces
         /// lista as consultas de um determinado paciente
         /// </summary>
         /// <returns>uma lista de consultas</returns>
-        List<Consulta> ConsultasPaciente(int id);
-
-
-        /// <summary>
-        /// lista as consultas de um determinado 
-        /// </summary>
-        /// <returns>uma lista de consultas</returns>
-        List<Consulta> ConsultasMedico(int id);
+        List<Consulta> ConsultasUsuarios(int id);
 
     }
 }

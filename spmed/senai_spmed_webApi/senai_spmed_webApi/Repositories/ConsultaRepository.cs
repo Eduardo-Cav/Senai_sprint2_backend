@@ -29,55 +29,40 @@ namespace senai_spmed_webApi.Repositories
             ctx.SaveChanges();
         }
 
-        public List<Consulta> ConsultasMedico(int id)
+
+        public List<Consulta> ConsultasUsuarios(int IdUsuario)
         {
             return ctx.Consultas
                 .Include(e => e.IdMedicoNavigation)
                 .Include(e => e.IdPacienteNavigation)
                 .Include(e => e.IdSituacaoNavigation)
-                .Where(e => e.IdMedico == id)
+                .Where(e => e.IdPacienteNavigation.IdUsuario == IdUsuario || e.IdMedicoNavigation.IdUsuario == IdUsuario)
                 .Select(e => new Consulta()
                 {
-                    IdPacienteNavigation = new Paciente()
-                    {
-                        NomePaciente = e.IdPacienteNavigation.NomePaciente,
-                        Cpf = e.IdPacienteNavigation.Cpf,
-                        Telefone = e.IdPacienteNavigation.Telefone
-                    },
-
-                    IdSituacaoNavigation = new Situacao()
-                    {
-                        Descricao = e.IdSituacaoNavigation.Descricao
-                    },
-
-                    DataAgendamento = e.DataAgendamento,
-                    Descricao = e.Descricao
-                })
-                .ToList();
-        }
-
-        public List<Consulta> ConsultasPaciente(int id)
-        {
-            return ctx.Consultas
-                .Include(e => e.IdMedicoNavigation)
-                .Include(e => e.IdPacienteNavigation)
-                .Include(e => e.IdSituacaoNavigation)
-                .Where(e => e.IdPaciente == id)
-                .Select(e => new Consulta()
-                {
+                    IdConsulta = e.IdConsulta,
 
                     IdMedicoNavigation = new Medico()
                     {
+                        IdMedico = e.IdMedicoNavigation.IdMedico,
                         NomeMedico = e.IdMedicoNavigation.NomeMedico,
                         
                         IdEspecialidadeNavigation = new Especialidade()
                         {
+                            IdEspecialidade = e.IdMedicoNavigation.IdEspecialidadeNavigation.IdEspecialidade,
                             NomeEspecialidade = e.IdMedicoNavigation.IdEspecialidadeNavigation.NomeEspecialidade
                         }
                     },
 
+                    IdPacienteNavigation = new Paciente()
+                    {
+                        IdPaciente = e.IdPacienteNavigation.IdPaciente,
+                        NomePaciente = e.IdPacienteNavigation.NomePaciente
+                        
+                    },
+
                    IdSituacaoNavigation = new Situacao()
                    {
+                       IdSituacao = e.IdSituacaoNavigation.IdSituacao,
                        Descricao = e.IdSituacaoNavigation.Descricao
                    },
 

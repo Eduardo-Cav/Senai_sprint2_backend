@@ -34,12 +34,12 @@ namespace senai_spmed_webApi.Controllers
             _usuarioRepository = new UsuarioRepository();
         }
 
+        
         /// <summary>
-        /// faz a validação do usuário
+        /// faz a autenticação do usuario
         /// </summary>
-        /// <param name="email">email do usuário</param>
-        /// <param name="senha">senha do usuário</param>
-        /// <returns>um usuário logado, caso exista</returns>
+        /// <param name="login">email e senha que deverão ser passados</param>
+        /// <returns>um usuário logado</returns>
         [HttpPost]
         public IActionResult Post(LoginViewModel login)
         {

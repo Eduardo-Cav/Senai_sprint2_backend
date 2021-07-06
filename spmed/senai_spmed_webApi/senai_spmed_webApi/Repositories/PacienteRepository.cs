@@ -16,10 +16,10 @@ namespace senai_spmed_webApi.Repositories
         spmedContext ctx = new spmedContext();
 
         /// <summary>
-        /// atualiza um usuario pelo id na url da requisição
+        /// atualiza um paciente pelo id na url da requisição
         /// </summary>
         /// <param name="id"> id do usuário que será atualizado</param>
-        /// <param name="usuarioAtualizado">novas informações para esse usuário</param>
+        /// <param name="pacienteAtualizado">novas informações para esse usuário</param>
 
         public void AtualizarPorId(int id, Paciente pacienteAtualizado)
         {

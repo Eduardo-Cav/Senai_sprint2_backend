@@ -17,7 +17,7 @@ namespace senai_spmed_webApi.Controllers
     [ApiController]
     public class MedicosController : ControllerBase
     {
-        // <summary>
+        /// <summary>
         /// _medicoRepository recebe os métodos da interface
         /// </summary>
         private IMedicoRepository _medicoRepository { get; set; }

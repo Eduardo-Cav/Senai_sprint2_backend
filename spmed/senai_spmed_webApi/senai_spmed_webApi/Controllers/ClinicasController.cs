@@ -19,7 +19,7 @@ namespace senai_spmed_webApi.Controllers
     {
         /// <summary>
         /// objeto _clinicaRepository herda os métodos da interface
-        /// </summary
+        /// </summary>
         private IClinicaRepository _clinicaRepository { get; set; }
 
         /// <summary>
