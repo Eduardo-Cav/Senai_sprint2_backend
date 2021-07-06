@@ -1,0 +1,208 @@
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\appsettings.json
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.exe
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.deps.json
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ref\senai_spmed_webApi.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.pdb
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Humanizer.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\staticwebassets\senai_spmed_webApi.StaticWebAssets.Manifest.cache
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\staticwebassets\senai_spmed_webApi.StaticWebAssets.xml
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\scopedcss\bundle\senai_spmed_webApi.styles.css
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.RazorTargetAssemblyInfo.cache
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.csproj.CopyComplete
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\ref\senai_spmed_webApi.dll
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.pdb
+E:\Meus Documentos\Área de Trabalho\Senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.genruntimeconfig.cache
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.csprojAssemblyReference.cache
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.AssemblyInfoInputs.cache
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.AssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\ref\senai_spmed_webApi.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.pdb
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\appsettings.json
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.exe
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.deps.json
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.runtimeconfig.json
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.runtimeconfig.dev.json
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ref\senai_spmed_webApi.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.pdb
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Humanizer.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\staticwebassets\senai_spmed_webApi.StaticWebAssets.Manifest.cache
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\staticwebassets\senai_spmed_webApi.StaticWebAssets.xml
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\scopedcss\bundle\senai_spmed_webApi.styles.css
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.RazorTargetAssemblyInfo.cache
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.csproj.CopyComplete
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.genruntimeconfig.cache
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
