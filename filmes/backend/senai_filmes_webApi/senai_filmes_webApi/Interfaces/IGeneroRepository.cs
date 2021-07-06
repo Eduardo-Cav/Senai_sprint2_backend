@@ -36,7 +36,7 @@ namespace senai_filmes_webApi.Interfaces
         /// Atualiza um gênero existente passando o id pelo corpo da requisição
         /// </summary>
         /// <param name="genero">Objeto genero com as novas informações</param>
-        void AtualizarIdCorpo(GeneroDomain genero);
+        void AtualizarIdCorpo(GeneroDomain generoAtualizado);
 
         /// <summary>
         /// Atualiza um gênero existente passando o id pela url da requisição

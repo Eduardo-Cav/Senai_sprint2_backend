@@ -27,7 +27,7 @@ namespace senai_filmes_webApi.Repositories
         /// Atualiza um gênero passando o seu id pelo corpo da requisição
         /// </summary>
         /// <param name="genero">Objeto genero com as novas informações</param>
-        public void AtualizarIdCorpo(GeneroDomain genero)
+        public void AtualizarIdCorpo(GeneroDomain generAtualizado)
         {
             // Declara a SqlConnection con passando a string de conexão como parâmetro
             using (SqlConnection con = new SqlConnection(stringConexao))
