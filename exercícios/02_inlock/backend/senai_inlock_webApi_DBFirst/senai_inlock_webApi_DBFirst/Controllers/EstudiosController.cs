@@ -47,10 +47,10 @@ namespace senai_inlock_webApi_DBFirst.Controllers
         /// <param name="id">id do estúdio que será encontrado</param>
         /// <returns>um estúdio e um status code 200 - OK</returns>
         [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        public IActionResult GetById(int idEstudio)
         {
             //retorna a resposta da requisição fazendo a chamada para o método definido
-            return Ok(_estudioRepository.BuscarPorId(id));
+            return Ok(_estudioRepository.BuscarPorId(idEstudio));
         }
 
         /// <summary>

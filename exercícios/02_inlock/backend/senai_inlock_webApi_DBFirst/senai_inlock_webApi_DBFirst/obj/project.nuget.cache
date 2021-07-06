@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fEOMZ6xN2Fhy8dJHMbS1RM29yJ1VQCjpIAoN0UGiX74RPM7fpf5xZldeBK51+6yswBb99bauPtdI0c9mmUqekQ==",
+  "dgSpecHash": "X6qeoFHCD1Hm/gxHMjODuZ4cP7jgBJP21Hvbj8NicfFi6kEOvAhv3chG/sZNPoVEyXToRZiLR2TrZbgVRqrXJQ==",
   "success": true,
-  "projectFilePath": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\exercícios\\02_inlock\\backend\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst.csproj",
+  "projectFilePath": "E:\\Meus Documentos\\Área de Trabalho\\senai sprints\\senai_sprint2_backend\\exercícios\\02_inlock\\backend\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduzi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\eduzi\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.5\\microsoft.aspnetcore.jsonpatch.5.0.5.nupkg.sha512",

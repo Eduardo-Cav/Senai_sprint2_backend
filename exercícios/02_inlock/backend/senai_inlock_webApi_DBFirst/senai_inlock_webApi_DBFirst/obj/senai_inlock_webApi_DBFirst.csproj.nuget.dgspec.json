@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\exercícios\\02_inlock\\backend\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst.csproj": {}
+    "E:\\Meus Documentos\\Área de Trabalho\\senai sprints\\senai_sprint2_backend\\exercícios\\02_inlock\\backend\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst.csproj": {}
   },
   "projects": {
-    "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\exercícios\\02_inlock\\backend\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst.csproj": {
+    "E:\\Meus Documentos\\Área de Trabalho\\senai sprints\\senai_sprint2_backend\\exercícios\\02_inlock\\backend\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\exercícios\\02_inlock\\backend\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst.csproj",
+        "projectUniqueName": "E:\\Meus Documentos\\Área de Trabalho\\senai sprints\\senai_sprint2_backend\\exercícios\\02_inlock\\backend\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst.csproj",
         "projectName": "senai_inlock_webApi_DBFirst",
-        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\exercícios\\02_inlock\\backend\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst.csproj",
+        "projectPath": "E:\\Meus Documentos\\Área de Trabalho\\senai sprints\\senai_sprint2_backend\\exercícios\\02_inlock\\backend\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst.csproj",
         "packagesPath": "C:\\Users\\eduzi\\.nuget\\packages\\",
-        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\Senai_sprint2_backend\\exercícios\\02_inlock\\backend\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst\\obj\\",
+        "outputPath": "E:\\Meus Documentos\\Área de Trabalho\\senai sprints\\senai_sprint2_backend\\exercícios\\02_inlock\\backend\\senai_inlock_webApi_DBFirst\\senai_inlock_webApi_DBFirst\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eduzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
