@@ -1,0 +1,10 @@
+O banco de dados ajuda em uma melhor organização e administração
+de um projeto, facilita o acesso aos dados e com a relação desses dados
+se geram informações organizadas.
+
+O banco de dados relacional fornece dados que podem ser relacionados entre si e os
+organiza os dados em formato de tabela
+
+Um banco de dados não relacional não utiliza o formato de estrutura de tabela, 
+linha e coluna utilizado pelos bancos de dados relacionais. Esses bancos de dados 
+estão equipados com estruturas variadas de modelagem e armazenamento de dados.
