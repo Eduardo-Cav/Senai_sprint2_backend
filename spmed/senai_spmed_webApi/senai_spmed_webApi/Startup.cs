@@ -31,6 +31,17 @@ namespace senai_spmed_webApi
                      options.SerializerSettings.NullValueHandling = NullValueHandling.Ignore;
                  });
 
+            // Adiciona o CORS ao projeto
+            services.AddCors(options => {
+                options.AddPolicy("CorsPolicy", 
+                    builder => {
+                        builder.WithOrigins("http://localhost:3000", "http://localhost:19006")
+                                                                    .AllowAnyHeader()
+                                                                    .AllowAnyMethod();
+                    }
+                );
+            });
+
 
             // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c => {
@@ -100,6 +111,9 @@ namespace senai_spmed_webApi
             app.UseAuthentication();
 
             app.UseAuthorization();
+
+             // Habilita o CORS
+            app.UseCors("CorsPolicy");
 
             app.UseEndpoints(endpoints =>
             {

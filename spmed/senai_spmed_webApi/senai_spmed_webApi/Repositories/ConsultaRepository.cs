@@ -44,6 +44,7 @@ namespace senai_spmed_webApi.Repositories
                     IdMedicoNavigation = new Medico()
                     {
                         IdMedico = e.IdMedicoNavigation.IdMedico,
+                        IdUsuario = e.IdMedicoNavigation.IdUsuario,
                         NomeMedico = e.IdMedicoNavigation.NomeMedico,
                         
                         IdEspecialidadeNavigation = new Especialidade()
@@ -56,6 +57,7 @@ namespace senai_spmed_webApi.Repositories
                     IdPacienteNavigation = new Paciente()
                     {
                         IdPaciente = e.IdPacienteNavigation.IdPaciente,
+                        IdUsuario = e.IdPacienteNavigation.IdUsuario,
                         NomePaciente = e.IdPacienteNavigation.NomePaciente
                         
                     },
