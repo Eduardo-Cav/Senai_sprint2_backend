@@ -349,3 +349,5 @@ C:\Users\46898539833\Desktop\senai_sprint2_backend\spmed\senai_spmed_webApi\sena
 C:\Users\46898539833\Desktop\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.genruntimeconfig.cache
 C:\Users\46898539833\Desktop\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.xml
 C:\Users\46898539833\Desktop\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.xml
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\bin\Debug\net5.0\senai_spmed_webApi.xml
+E:\Meus Documentos\Área de Trabalho\senai sprints\senai_sprint2_backend\spmed\senai_spmed_webApi\senai_spmed_webApi\obj\Debug\net5.0\senai_spmed_webApi.xml

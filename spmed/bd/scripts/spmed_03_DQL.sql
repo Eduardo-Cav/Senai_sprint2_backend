@@ -3,7 +3,7 @@ USE SPmed;
 
 SELECT * FROM tipoUsuario;
 
-SELECT * FROM usuario
+SELECT * FROM usuario;
 
 SELECT * FROM paciente;
 

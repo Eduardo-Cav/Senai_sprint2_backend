@@ -30,13 +30,13 @@ namespace senai_spmed_webApi.Repositories
         }
 
 
-        public List<Consulta> ConsultasUsuarios(int IdUsuario)
+        public List<Consulta> ConsultasUsuarios(int idUsuario)
         {
             return ctx.Consultas
                 .Include(e => e.IdMedicoNavigation)
                 .Include(e => e.IdPacienteNavigation)
                 .Include(e => e.IdSituacaoNavigation)
-                .Where(e => e.IdPacienteNavigation.IdUsuario == IdUsuario || e.IdMedicoNavigation.IdUsuario == IdUsuario)
+                .Where(e => e.IdPacienteNavigation.IdUsuario == idUsuario || e.IdMedicoNavigation.IdUsuario == idUsuario)
                 .Select(e => new Consulta()
                 {
                     IdConsulta = e.IdConsulta,
